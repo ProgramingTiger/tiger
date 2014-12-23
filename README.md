@@ -1,3 +1,3 @@
-tiger
+TigerandEagleWebsite
 =====
 This is our website
