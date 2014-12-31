@@ -15,4 +15,15 @@ namespace TigerandEagleWebsite.Controllers
             return View();
         }
     }
+        public class LoginController : Controller
+        {
+
+            public ActionResult Login()
+            {
+                ViewBag.Title = "Login Page";
+
+                return View();
+            }
+        }
+    
 }
